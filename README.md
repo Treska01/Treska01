@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Treska01
 - 👀 I’m interested in Pokémon.
-- 🌱 I’m currently way too busy learning.
-- 💞️ I’m not looking to collaborate on anything right now.
-- 📫 I do not wish to be reached at this time.
+- 🌱 I’m currently doing absolutely nothing of any importance (probably).
+- 💞️ I might wish to collaborate on just about anything right now (I'm that bored).
+- 📫 I might like to be reached at this time (I'm. I need- social. plz).
 
 <!---
 Treska01/Treska01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
